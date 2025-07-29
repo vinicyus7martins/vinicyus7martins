@@ -1,7 +1,7 @@
 <h1 align="center">olá 👋, meu nome é: Vinicyus Martins</h1>
 <h3 align="center">sou um recente estudante de programação web</h3>
 
-- 🔭 Estou desenvolvendo: **market imobil**
+- 🔭 Estou desenvolvendo: **Primeiros projetos pessoais**
 
 - 🌱 Atualmente estou estudando **node.js,api´s**
 
