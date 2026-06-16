@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando **node.js,api´s**
 
-- 🤝 Procuro ajudar em projetos : **como front-end.**
+- 🤝 Procuro ajudar em projetos : **como back-end.**
 
 - 💬 Me pergunte sobre: **css responsive layouts,javascript fundamentals**
 
